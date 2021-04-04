@@ -1,0 +1,24 @@
+Comparison of For loop and While loop.
+
+-> Initialization: 
+	-> For loop - inside/outside of the loop
+	-> While loop - outside of the loop
+
+-> Increment/Decrement:
+	-> For loop - after statement/s is/are executed
+	-> While loop - before/after statement/s is/are executed
+
+-> Itreation:
+	-> For loop - used when number of iterations is known
+	-> While loop - used when number of iterations is unknown
+
+-> Conditions:
+	-> For loop - relational expressions
+	-> While loop - expression or non-zero value
+
+-> Initialization/Increment/Decrement:
+	-> For loop - used when initialization is easy
+	-> While loop - used when initialization is complex
+
+-> Similarity:
+	-> Both are entry controlled loops.

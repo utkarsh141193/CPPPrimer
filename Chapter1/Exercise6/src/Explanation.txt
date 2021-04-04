@@ -1,0 +1,5 @@
+The code fragment given throws error/s.
+
+Primary reason being the missing "cout" expression to print the desired result.
+
+The expression to be printed has to be accompanied with "cout".
