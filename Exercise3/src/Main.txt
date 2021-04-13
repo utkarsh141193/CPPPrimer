@@ -1,9 +1,0 @@
-If short given on a machine has 16 bits, largest number that can be assigned for a short? 
-
-Case for unsigned short:
-0 -> (2^16) - 1 = 0 -> 65535
-Maximum value = 65535
-
-Case for signed(default) short:
--2^15 -> 2^15 -1 = -32768 -> 32767
-Maximum value = 32767
