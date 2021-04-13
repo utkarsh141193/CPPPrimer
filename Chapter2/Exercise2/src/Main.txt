@@ -1,0 +1,6 @@
+Difference between signed and unsigned type:
+
+1: signed type includes neagtive as well as positive integers 
+   unsigned type include positive numbers and 0.
+
+2: signed is the default.
