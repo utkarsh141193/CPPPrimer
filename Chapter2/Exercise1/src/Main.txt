@@ -1,0 +1,20 @@
+Difference between int, long and short: 
+
+1: size:
+	short : half a machine word (16 bits)
+	int : a machine word (32 bits)
+	long : 1 or 2 machine words (64 bits)
+
+	*Note: For some machines int/long occupies same space
+
+2: depends on machine to machine:
+	The only guarantee in size of short <= size of long
+
+3: values and ranges:
+	short signed integer (16 bits in size) - [-32768, 32767]
+	long signed integer (32 bits in size) - [-2147483648, 2147483647]
+
+4: for unsigned values and ranges: 
+	short unsigned integer (16 bits) - [0, 65535]
+	long unsigned integer (32 bits) - [0, 4294967295]
+
