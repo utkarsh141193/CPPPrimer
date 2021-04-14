@@ -1,0 +1,10 @@
+What is the value assigned when 100000 is assigned to a 16 bit unsigned short?
+
+Maximum value that can be assigned to unsigned short is -> 2^16 -1
+which comes out to be 65535
+
+When 100000 is assigned to unsigned short, then the value comes out to be 
+100000 mod 65536 = 34464
+
+For signed short:
+100000 mod 32768 = 1696
