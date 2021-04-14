@@ -1,0 +1,9 @@
+Mortgage payment:
+
+Rate: float
+Principal: double
+Payment: double
+
+rate -> float (significant upto 6 digits)
+Principal -> double (precision is required)
+Payment -> double (precision is required)
